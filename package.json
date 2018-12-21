@@ -1,0 +1,25 @@
+{
+  "name": "smash-copy",
+  "version": "0.0.1",
+  "description": "Copy file or directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenhaihong/smash-copy.git"
+  },
+  "keywords": [
+    "smash",
+    "smash-cli",
+    "copy",
+    "copy-dir"
+  ],
+  "author": "erye <erye@tiiit.cn>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenhaihong/smash-copy/issues"
+  },
+  "homepage": "https://github.com/chenhaihong/smash-copy#readme"
+}

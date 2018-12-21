@@ -1,0 +1,5 @@
+{
+    "SRC_MUST_BE_FILE_OR_DIR": "The \"src\" argument must be a file or directory path string.",
+    "ERROR_WHILE_WRITING": "An error occurred while writing data.",
+    "ERROR_WHILE_READING": "An error occurred while reading data."
+}
